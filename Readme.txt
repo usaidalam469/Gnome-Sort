@@ -10,8 +10,3 @@ Works for?
 
 Platforms:
 -Visual Studio
-
-Group Members:
-Syed Mohammad Usaid         17B-063-SE 
-Kainat Nazir                17B-006-SE
-Muhammad Immad Uddin        17B-040-SE
